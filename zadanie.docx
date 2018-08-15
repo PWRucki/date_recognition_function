@@ -1,0 +1,6 @@
+Zdanie polega na stworzeniu funkcji, która z podanych tekstów jest w stanie wyci¹gn¹æ datê. W za³¹czniku jest set danych zawieraj¹cy pole text, w którym znajduje siê wypowiedŸ oraz kolumny z oznaczeniem dnia miesi¹ca i roku.  
+Funkcja bêdzie oceniana na podstawie iloœæ prawid³owo wyci¹gniêtych dat w secie testowym, który nie jest udostêpniony. 
+- funkcja powinna nazywaæ siê date_recogniotion,przyjmowaæ argument text i zwracaæ s³ownik z odpowiednimi polami (screen w za³¹czniku)
+- do wyci¹gniêcia z tekstu dat nale¿y u¿yæ wyra¿eñ regularnych
+- skrypt z funkcj¹ nale¿y umieœciæ na repozytorium (github, bitbucket itp...)
+
